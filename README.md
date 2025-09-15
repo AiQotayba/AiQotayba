@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## 🌐 Full-Stack Developer | MERN + Next.js 15
 
 - 📍 Based in Lebanon
-- 💻 Portfolio: [AiQotayba.netlify.app](https://AiQotayba.netlify.app/)
+- 💻 Portfolio: [AiQotayba.vercel.app](https://AiQotayba.vercel.app/)
 - ✉️ Contact: [AiQotayba@gmail.com](mailto:AiQotayba@gmail.com)
 - 🚀 Currently working on: [nextjs-vip](https://nextjsvip.netlify.app/)
 - 🤝 Open to collaborating on web apps & startups
@@ -34,6 +34,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
+
 ---
 
 ## 🚀 Projects
