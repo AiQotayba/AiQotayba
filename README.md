@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## 🌐 Full-Stack Developer | MERN + Next.js 15
 
 - 📍 Based in Lebanon
-- 💻 Portfolio: [ktsyr1.netlify.app](https://ktsyr1.netlify.app/)
-- ✉️ Contact: [ktsyr1@gmail.com](mailto:ktsyr1@gmail.com)
+- 💻 Portfolio: [AiQotayba.netlify.app](https://AiQotayba.netlify.app/)
+- ✉️ Contact: [AiQotayba@gmail.com](mailto:AiQotayba@gmail.com)
 - 🚀 Currently working on: [nextjs-vip](https://nextjsvip.netlify.app/)
 - 🤝 Open to collaborating on web apps & startups
 
