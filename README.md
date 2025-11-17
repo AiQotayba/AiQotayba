@@ -1,14 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is **Qotayba Mohammad**
 =========================================================================================================================================
 
-## 🌐 Full-Stack Developer | MERN + Next.js 15
+## 🌐 Full-Stack Developer | Next.js, MongoDB, PostageSQL, Express.js, 
 
-- 📍 Based in Lebanon
+- 📍 Based in Syria
 - 💻 Portfolio: [AiQotayba.vercel.app](https://AiQotayba.vercel.app/)
-- ✉️ Contact: [AiQotayba@gmail.com](mailto:AiQotayba@gmail.com)
-- 🚀 Currently working on: [nextjs-vip](https://nextjsvip.netlify.app/)
-- 🤝 Open to collaborating on web apps & startups
-
+- ✉️ Contact: [AiQotayba@gmail.com](mailto:AiQotayba@gmail.com) 
 ---
 
 ## 🔧 Skills
@@ -48,7 +45,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## 💼 Work Experience
 
 **Front-End Developer | Codevay (Contract)** – Jan 2025 – Present  
-- Next.js 15 + Server Components, Redux Toolkit  
+- Next.js 16 + Server Components, Redux Toolkit  
 - Framer Motion animations & optimized UI/UX  
 - Remote collaboration & contract-based workflow  
 
