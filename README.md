@@ -55,7 +55,12 @@ Full-Stack Developer specializing in **Next.js, MongoDB, PostgreSQL, and Express
 * Integrated **WordPress GraphQL API** and **payment gateways**
 
 ---
+**The most important sites** 
 
+- <a href="https://ajarsyria.com" target="_blank"> ajarsyria.com </a>
+- <a href="https://ssf.gov.sy" target="_blank"> ssf.gov.sy </a>
+- <a href="https://sawastay.com" target="_blank"> sawastay.com </a>
+- <a href="https://inspectex.sa" target="_blank"> inspectex.sa </a>
 ## 📱 Connect with me
 
 <p align="left">
