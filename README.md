@@ -24,14 +24,7 @@ Full-Stack Developer specializing in **Next.js, MongoDB, PostgreSQL, and Express
 </p>
 
 ---
-
-## 🚀 Projects
-
-* **[Dolean](https://dolean.vercel.app/)** – Course platform for students (Next.js, MongoDB)
-* **[Nextjs-vip](https://nextjsvip.netlify.app/)** – Library to enhance Next.js API routes & sitemap generation
-* **Android Store** – Training project: Web scraping, offline support, serverless deployment
-
----
+ 
 
 ## 💼 Experience
 
@@ -57,8 +50,7 @@ Full-Stack Developer specializing in **Next.js, MongoDB, PostgreSQL, and Express
 ---
 **The most important sites** 
 
-- <a href="https://ajarsyria.com" target="_blank"> ajarsyria.com </a>
-- <a href="https://ssf.gov.sy" target="_blank"> ssf.gov.sy </a>
+- <a href="https://ajarsyria.com" target="_blank"> ajarsyria.com </a> 
 - <a href="https://sawastay.com" target="_blank"> sawastay.com </a>
 - <a href="https://inspectex.sa" target="_blank"> inspectex.sa </a>
 ## 📱 Connect with me
