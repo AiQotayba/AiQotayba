@@ -4,7 +4,7 @@ Software Developer specializing in **Next.js, Node.js, Express.js, and Databases
 I build **scalable, high-performance, and user-focused web applications** with clean architecture and modern UX.
 
 📍 Syria  
-💼 Portfolio: https://aiqotayba.vercel.app  
+💼 Portfolio: https://aiqotayba.com  
 ✉️ Email: Ai.Qotayba@gmail.com  
 
 ---
