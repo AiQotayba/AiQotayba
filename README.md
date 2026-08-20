@@ -1,6 +1,6 @@
 # Hi, I'm Qotayba Mohammad 👋
 
-Full-Stack Developer specializing in **Next.js, Node.js, Express.js, and Databases (MongoDB & PostgreSQL)**.  
+Software Developer specializing in **Next.js, Node.js, Express.js, and Databases (MongoDB & PostgreSQL)**.  
 I build **scalable, high-performance, and user-focused web applications** with clean architecture and modern UX.
 
 📍 Syria  
